@@ -16,8 +16,8 @@
 
     <Button
         android:id="@+id/smallbtn"
-        android:layout_width="match_parent"
+        android:layout_width="149dp"
         android:layout_height="wrap_content"
-        android:text="작은 버튼"/>
+        android:text="작은 버튼" />
 
 </LinearLayout>
